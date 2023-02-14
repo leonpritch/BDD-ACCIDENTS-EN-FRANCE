@@ -1,0 +1,14 @@
+
+OBJECTIF DU SYSTEME / DE L'APPLICATION : 
+
+Il s'agit de créer une application qui regroupe des données sur les accidents de la route de l'année 2021. 
+Cette application à un back office, un front office et une API afin de récuperer des données via une autre application. 
+Différentes tables sont créées pour regrouper les informations sur les véhicules, les accidents et les victimes.
+L'objectif est de pouvoir faire des analyses statistiques pour améliorer la sécurité routière.
+
+Les différentes tables recensent les caractéristiques des accidents de la route,
+les lieux où ils se sont produits, 
+les véhicules impliqués et les usagers concernés pour l'année donnée. 
+
+Les différentes types de données sont calqués sur celles présentes dans les différents CSV du dossiers ressources *
+(0, 1, 2, 3, 4) -> ces correspondances sont présentes dans "exo_bdd.pdf"
